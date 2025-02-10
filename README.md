@@ -1,6 +1,6 @@
 # T20-World-Cup-Data-Analysis
 # Performed Data analysis on the data of T20 Cricket world cup and players' performance.
-## [Click here](https://www.novypro.com/profile_projects/abhishek-kumar-2?Popup=memberProject&Data=1722368961638x120381222564401200) to view the live dashboard.
+
 ![Slide1](https://github.com/user-attachments/assets/7e0b00b7-2bf8-4325-8735-26d476462aea)
 ![Slide2](https://github.com/user-attachments/assets/580e13fd-514a-4996-b45c-20780dec14f5)
 ![Slide3](https://github.com/user-attachments/assets/6bb365bf-7b07-41ef-a398-027d630336cc)
